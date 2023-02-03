@@ -1,6 +1,6 @@
 {
-  "name": "fcc-learn-node-with-express",
-  "version": "0.1.0",
+  "name": "learn-node-with-express-freecodecamp",
+  "version": "1.0.0",
   "dependencies": {
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
